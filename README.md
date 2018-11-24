@@ -27,7 +27,7 @@ Your homework tonight is to finish the duckhunt lab!  Please copy/paste this int
 
   // 10. Well Done!  
 
-   ——— Part 3:  We're almost there! —— 
+  // ——— Part 3:  We're almost there! —— 
 
   // 11. BOOM. Attach a "click" handler that adds the "shot" class to
   //     the duck when you click on it!
