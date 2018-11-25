@@ -36,7 +36,7 @@ $(document).ready(function() {
     function makeNewPosition(){
   
       // Get viewport dimensions (remove the dimension of the div)
-      var h = $(window).height() - 50;
+      /* var h = $(window).height() - 50;
       var w = $(window).width() - 50;
    
       var nh = Math.floor(Math.random() * h);
@@ -50,8 +50,8 @@ $(document).ready(function() {
       var newq = makeNewPosition();
       $(newPo).animate({ top: newq[0], left: newq[1] }, 2000,   function(){
         animateDiv(newPo);
-      });
-   
+      }); */ //I copied this part from my class mate just to see if the bird is gonna move or not
+      // which isn't::
    };
   })
      
