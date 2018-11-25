@@ -9,6 +9,8 @@ Part 1 is required, Part 2 is optional!  Part 2 is an EXCELLENT challenge.  You 
 
 Your homework tonight is to finish the duckhunt lab!  Please copy/paste this into the work you did in class and answer the questions in your javascript file:
 ```javascript
+
+
   // 5. ——— Part 2: Here we go! —— 
   // 6. Things are getting a bit messy. Put everything from problems 1-4 in a new function 
   // called createDuck that "returns" the duck object
